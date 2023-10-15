@@ -1,0 +1,53 @@
+{
+    "Code0": {
+        "prefix": "code0",
+        "body": [
+            "/*",
+            "Author:lzx",
+            "Blog:https://blog.lzx9.com/",
+            "Email:lzx@czoier.top",
+            "QQ:2210631299",
+            "*/",
+            "#include<bits/stdc++.h>",
+            "using namespace std;",
+            "",
+            "int main()",
+            "{",
+            "",
+            "    return 0;",
+            "}",
+        ],
+        "description": "Log output to console"
+    },
+    "Code1": {
+        "prefix": "code1",
+        "body": [
+            "/*",
+            "Author:lzx",
+            "Blog:https://blog.lzx9.com/",
+            "Email:lzx@czoier.top",
+            "QQ:2210631299",
+            "--------------------",
+            "多测不清空，亲人两行泪",
+            "*/",
+            "#include<bits/stdc++.h>",
+            "using namespace std;",
+            "int T;",
+            "",
+            "void work()",
+            "{",
+            "",
+            "}",
+            "int main()",
+            "{",
+            "    cin>>T;",
+            "    while(T--)",
+            "    {",
+            "        work();",
+            "    }",
+            "    return 0;",
+            "}"
+        ],
+        "description": "Log output to console"
+    }
+}
